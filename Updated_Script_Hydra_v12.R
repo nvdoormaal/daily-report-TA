@@ -1,5 +1,3 @@
-rm(list=ls())
-
 ###########################
 ## NEW DAILY REPORT CODE ##
 ##      FOR HYDRA        ##
