@@ -13,7 +13,7 @@
 ##########################
 ## CHANGABLE PARAMETERS ##
 ##########################
-Data.dir <- "C:/Users/Daikoro/Documents/R/Reporting/Hydra data"  ## Path to main folder containing all data and subfolders
+Data.dir <- "./Hydra data"  ## Path to main folder containing all data and subfolders
 
 TodaysDate <- as.Date(Sys.time())
 TodaysDateTime <- Sys.time()
